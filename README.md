@@ -1,6 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Khurshid!
+---
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCjXQ5_HKvUCa1MWYBSGytvg?style=social)
 
+I enjoy creating software solutions and web presence. My interest in coding started back in the college days when I studied BTEC Computing course. Although, I ventured in different fields, I now decided to study and enhance on the skills learned in software development.
+
+In my computer course, I have learned to program in COBOL and C/C++, relational databases and software development life cycle. Using the skills learned, developed a software solutions to a real-life scenario based project and involved in all stages of software development life cycle.
+
+Currently, I'm focused on learning full-stack software development and enrolled on the Skills Bootcamp in Web Design & Development at The Coder Guilds. I'm hoping to gain valuable skills in coding to land a trainee/junior software developer role.
 <!--
 **KushAhmed/KushAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
