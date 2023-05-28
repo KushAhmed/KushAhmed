@@ -11,9 +11,17 @@ Currently, I'm focused on learning full-stack software development and enrolled 
 ---
 🧰 ToolBox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub logo" width="50px" height="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/codepen/codepen-plain.svg" alt="CodePen logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="MySQL logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python logo" width="50px" height="50px"> <img src="https://logodix.com/logo/2100309.png" alt="COBOL logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse logo" width="50px" height="50px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git logo" width="50px" height="50px"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/codepen/codepen-plain.svg" alt="CodePen logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="MySQL logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python logo" width="50px" height="50px"> <img src="https://logodix.com/logo/2100309.png" alt="COBOL logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="Eclipse logo" width="50px" height="50px">
 
 ---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KushAhmed&hide=python&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Khurshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=KushAhmed&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+
 <!--
 **KushAhmed/KushAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
